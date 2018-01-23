@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AddPatient</title>
+</head>
+<body>
+<h1>病人入院</h1>
+<form method="post" action="addPatient.php">
+    <label for="name">姓名:</label>
+    <input type="text" id="name" name="name"/>
+    <br />
+    <label for="bedNo">病床号:</label>
+    <input type="text" id="bedNo" name="bedNo"/>
+    <br />
+    <label>性别:</label>
+    <input type="radio" id="male" name="sex" value="男"/>
+    <label for="male">男</label>
+    <input type="radio" id="female" name="sex" value="女"/>
+    <label for="female">女</label>
+    <br />
+    <label for="age">年龄:</label>
+    <input type="text" id="age" name="age"/>
+    <br />
+    <input type="submit" name="regist" value="录入">
+    <input type="button" value="返回" onclick="window.location.href='index.php'">
+</form>
+</body>
+</html>

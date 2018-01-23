@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Regist</title>
+</head>
+<body>
+<h1>新护士注册</h1>
+<form method="post" action="regist.php">
+    <label for="user">用户名:</label>
+    <input type="text" id="user" name="user"/>
+    <br />
+    <label for="psw">密码:</label>
+    <input type="password" id="psw" name="psw"/>
+    <br />
+    <label for="repsw">再次输入密码:</label>
+    <input type="password" id="repsw" name="repsw"/>
+    <br />
+    <label for="name">姓名:</label>
+    <input type="text" id="name" name="name"/>
+    <br />
+    <label for="tel">联系电话:</label>
+    <input type="text" id="tel" name="tel"/>
+    <br />
+    <input type="submit" name="regist" value="注册">
+    <input type="button" value="返回" onclick="window.location.href='index.php'">
+</form>
+</body>
+</html>
