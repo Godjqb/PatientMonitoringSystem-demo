@@ -11,23 +11,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cases.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/View/cases.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="addCase.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/addCase.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="272">
+              <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
               <folding>
-                <marker date="1516777240660" expanded="true" signature="1073:1128" ph="..." />
+                <marker date="1516782093622" expanded="true" signature="1075:1130" ph="..." />
               </folding>
             </state>
           </provider>
@@ -36,11 +26,41 @@
       <file leaf-file-name="Database.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Common/Database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-274">
+            <state relative-caret-position="-130">
               <caret line="72" column="20" lean-forward="true" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
               <folding>
                 <marker date="1516711880994" expanded="true" signature="3606:3631" ph="DELETE FROM ${$tb}... " />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Nurse.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Common/Nurse.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="60" column="25" lean-forward="false" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deleteCases.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deleteCases.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,8 +78,8 @@
       <file leaf-file-name="exportCases.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exportCases.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="352">
+              <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -98,7 +118,6 @@
         <option value="$PROJECT_DIR$/acase.php" />
         <option value="$PROJECT_DIR$/dcase.php" />
         <option value="$PROJECT_DIR$/ecase.php" />
-        <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/signOut.php" />
         <option value="$PROJECT_DIR$/reg.php" />
         <option value="$PROJECT_DIR$/AddPatient.html" />
@@ -107,9 +126,7 @@
         <option value="$PROJECT_DIR$/exportCases.html" />
         <option value="$PROJECT_DIR$/deleteCases.html" />
         <option value="$PROJECT_DIR$/Common/Factory.php" />
-        <option value="$PROJECT_DIR$/deleteCases.php" />
         <option value="$PROJECT_DIR$/regist.php" />
-        <option value="$PROJECT_DIR$/Common/Nurse.php" />
         <option value="$PROJECT_DIR$/regist.html" />
         <option value="$PROJECT_DIR$/addPatient.html" />
         <option value="$PROJECT_DIR$/addPatient.php" />
@@ -120,6 +137,9 @@
         <option value="$PROJECT_DIR$/Common/Patient.php" />
         <option value="$PROJECT_DIR$/Common/Database.php" />
         <option value="$PROJECT_DIR$/exportCases.php" />
+        <option value="$PROJECT_DIR$/Common/Nurse.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/deleteCases.php" />
         <option value="$PROJECT_DIR$/addCase.php" />
       </list>
     </option>
@@ -228,12 +248,12 @@
       <workItem from="1516536331466" duration="187000" />
       <workItem from="1516608013297" duration="747000" />
       <workItem from="1516684640968" duration="21344000" />
-      <workItem from="1516775993516" duration="1273000" />
+      <workItem from="1516775993516" duration="3861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62540000" />
+    <option name="totallyTimeSpent" value="65128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -340,6 +360,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1040">
           <caret line="70" column="37" lean-forward="false" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -362,6 +383,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1264">
           <caret line="79" column="25" lean-forward="false" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -412,6 +434,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1184">
           <caret line="79" column="25" lean-forward="true" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -432,13 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -456,13 +472,6 @@
     <entry file="file://$PROJECT_DIR$/dcase.php" />
     <entry file="file://$PROJECT_DIR$/acase.php" />
     <entry file="file://$PROJECT_DIR$/ecase.php" />
-    <entry file="file://$PROJECT_DIR$/deleteCases.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deleteCases.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -478,13 +487,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/reg.php" />
-    <entry file="file://$PROJECT_DIR$/Common/Nurse.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="28" column="90" lean-forward="false" selection-start-line="28" selection-start-column="90" selection-end-line="28" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/regist.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -569,8 +571,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exportCases.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="352">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="72" column="20" lean-forward="true" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+          <folding>
+            <marker date="1516711880994" expanded="true" signature="3606:3631" ph="DELETE FROM ${$tb}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/Nurse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="60" column="25" lean-forward="false" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleteCases.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -583,22 +619,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Common/Database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-274">
-          <caret line="72" column="20" lean-forward="true" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
-          <folding>
-            <marker date="1516711880994" expanded="true" signature="3606:3631" ph="DELETE FROM ${$tb}... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/addCase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="272">
+          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
           <folding>
-            <marker date="1516777240660" expanded="true" signature="1073:1128" ph="..." />
+            <marker date="1516782093622" expanded="true" signature="1075:1130" ph="..." />
           </folding>
         </state>
       </provider>

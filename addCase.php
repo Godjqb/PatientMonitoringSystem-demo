@@ -23,7 +23,7 @@ if (isset($_POST['bedNo']) && !empty($_POST['bedNo']) && isset($_POST['bp']) && 
         }
         if ($_POST['temp'] < 36) {
             echo '警告:病人体温过低 <br />';
-        } else if ($_POST['bp'] > 37.4) {
+        } else if ($_POST['temp'] > 37.4) {
             echo '警告:病人体温过高 <br />';
         }
         if ($_POST['pulse'] < 60) {

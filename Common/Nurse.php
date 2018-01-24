@@ -54,11 +54,11 @@ class Nurse {
                 $_SESSION['name'] = $this->name;
                 return $this;
             } else {
-                echo json_encode(['status'=>false, 'msg'=>'wrong password']);
+                echo '密码错误';
                 return false;
             }
         } else {
-            echo json_encode(['status'=>false, 'msg'=>'wrong username']);
+            echo '用户名不存在';
             return false;
         }
     }

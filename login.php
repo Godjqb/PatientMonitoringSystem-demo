@@ -18,6 +18,8 @@ if (isset($_POST['user']) && isset($_POST['psw']) && !empty($_POST['user']) && !
     $res = \Common\Factory::createNurse()->signIn($user, $psw);
     if ($res) {
         header('Location:index.php');
+    } else {
+        echo '<br /><a href="index.php">返回</a>';
     }
 } else {
     echo 'username and password can\'t be empty';
